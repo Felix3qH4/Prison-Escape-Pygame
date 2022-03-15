@@ -1,0 +1,16 @@
+COMMANDS:
+(Oppassen op kleng- an Groussschreiwung)
+
+EXIT = quit game
+NPC = shows a tkinter window with informations about the NPC like position etc. (window updates itself and therefor it is difficult to resize it)
+NPC.rect= x, y = moves the NPC to the given coordinates x, y
+PLAYER = same as NPC but for Player
+PLAYER.rect= x, y = moves the Player to the given coordinates x, y
+FPS +x = increase FPS by x
+FPS -x = decrease FPS by x
+deltaTime = show deltaTime
+PAUSE = pause the game
+CONTINUE = continue game
+PAUSE INFOS = do not display all information like NPC position or FPS (Not shown by default)
+CONTINUE INFOS = display all information
+
